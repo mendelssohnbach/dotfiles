@@ -1,0 +1,46 @@
+
+
+# ==== Emojis ====
+# 🐛  :bug: バグ修正
+# 🚧  :construction: 進行中の作業
+# 🩹  :adhesive_bandage: 重要ではない問題の簡単な修正
+# ⚡️  :zap: 性能を上げる
+# ✨  :sparkles: 部分的な機能追加
+# 🎉  :tada: プロジェクトの開始
+# ♻️  :recycle: リファクタリング
+# ⚰️  :coffint: デッドコード/不要な機能を削除
+# 🚚  :truck: リソースの移動またはリネーム
+# 🔥  :fire: コードまたはファイルの削除
+# ✏️  :pencil2: タイポの修正
+# 💄  :lipstick: UIやスタイルの追加または更新
+# 🎨  :art: コードの構造/フォーマットを改善
+# 💚  :green_heart: テストやCIの修正・改善
+# 🚀  :rocket: デプロイ
+# ➕  :heavy_plus_sign: 依存関係を追加
+# ➖  :heavy_minus_sign: 依存関係を削除
+# ⬆️  :arrow_up: 依存関係をアップグレード
+# ⬇️  :arrow_down: 依存関係をダウングレード
+# 🔒  :lock: セキュリティの問題を修正
+# 🔖  :bookmark: リリース/バージョンタグ
+# 📝  :memo: ドキュメントを追加または更新
+
+# === Emoji Site ===
+# for https://gitmoji.dev/
+
+# ==== Format ====
+# :emoji: Subject
+#
+# Commit body...
+
+# ==== The Seven Rules ====
+# 1. Separate subject from body with a blank line
+# 2. Limit the subject line to 50 characters
+# 3. Capitalize the subject line
+# 4. Do not end the subject line with a period
+# 5. Use the imperative mood in the subject line
+# 6. Wrap the body at 72 characters
+# 7. Use the body to explain what and why vs. how
+#
+# How to Write a Git Commit Message http://chris.beams.io/posts/git-commit/
+
+# for http://memo.goodpatch.co/2016/07/beautiful-commits-with-emojis/
